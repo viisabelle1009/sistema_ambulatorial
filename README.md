@@ -97,4 +97,4 @@ Além da funcionalidade operacional, o projeto serve como base prática de apren
 
 ## Autor
 
-Vitória Isabelle da Silva Barbosa
+Vitória Isabelle 
