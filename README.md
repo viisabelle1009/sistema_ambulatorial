@@ -97,4 +97,7 @@ Além da funcionalidade operacional, o projeto serve como base prática de apren
 
 ## Autor
 
-Vitória Isabelle 
+Vitória Isabelle  
+
+Projeto acadêmico. Uso permitido com devidos créditos à autora.
+
